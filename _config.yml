@@ -60,3 +60,5 @@ minima:
 #   enabled: false
 #   strip_title: false
 #   collections: false
+
+epository: "RalphHightower/JekyllTestBed"
