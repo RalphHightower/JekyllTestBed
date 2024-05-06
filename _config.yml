@@ -24,12 +24,10 @@ plugins:
 
 # Theme-specific settings
 
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  # Minima date format.
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
-  # date_format: "%b %-d, %Y"
-  date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z" # "%b %-d, %Y"
+  date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z
   # Generate social links
   #
   # Don't have accounts in those items commented out, but what the heck!?
