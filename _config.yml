@@ -1,7 +1,7 @@
-title: Test Bed for Experimentation with Jekyll 
+title: Ralph Hightower — Jekyll Test Bed
 author:
   name: Ralph Hightower 
-  email: ralph.hightower@gmail.com
+  #email: ralph.hightower@gmail.com
   #street_address:
   city: Chapin
   state: South Carolina
@@ -9,54 +9,55 @@ author:
   country: United States of America
   #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
-  See what works and doesn't work with Jekyll _config.yml
-show_excerpts: false
-# Set to `true` to show excerpts on the homepage.
-#
+  This is a test bed for experimentation with Jekyll. 
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z" # "%b %-d, %Y"
+  # generate social links in footer
+  social_links:
+     - { platform: devto,          user_url: "https://dev.to/RalphHightower"}
+#  #   - { platform: dribbble,       user_url: "https://dribbble.com/RalphHightower" }
+#  #   - { platform: facebook,       user_url: "https://www.facebook.com/ralph.hightower" }
+     - { platform: flickr,         user_url: "https://www.flickr.com/photos/RalphHightower" }
+     - { platform: github,         user_url: "https://github.com/RalphHightower" }
+#  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+#  #   - { platform: instagram,      user_url: "https://www.instagram.com/RalphHightower" }
+#  #   - { platform: keybase,        user_url: "https://keybase.io/RalphHightower" }
+     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/RalphHightower" }
+#     - { platform: microdotblog,   user_url: "https://micro.blog/RalphHightower" }
+#  #   - { platform: pinterest,      user_url: "https://www.pinterest.com/RalphHightower" }
+     - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
+#  #   - { platform: telegram,       user_url: "https://t.me/RalphHightower" }
+#  #   - { platform: twitter,        user_url: "https://twitter.com/RalphHightower" }
+     - { platform: youtube,        user_url: "https://www.youtube.com/@RalphHightower" }
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+#mathjax: true
 
 # Build settings
-
 theme: minima
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+ - "jekyll-feed"
+ - "jekyll-seo-tag"
+ - "jekyll-last-modified-at"
+# - "jekyll-titles-from-headings"
 
-# Theme-specific settings
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z"
-  # Generate social links
-  #
-  # Don't have accounts in those items commented out, but what the heck!?
-    social_links:
-     - { platform: devto,          user_ul: "https://dev.to/RalphHightower"}
-  #   - { platform: dribbble,       user_url: "https://dribbble.com/RalphHightower" }
-  #   - { platform: facebook,       user_url: "https://www.facebook.com/ralph.hightower" }
-     - { platform: flickr,         user_url: "https://www.flickr.com/photos/RalphHightower" }
-     - { platform: github,         user_url: "https://github.com/RalphHightower" }
-  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-  #   - { platform: instagram,      user_url: "https://www.instagram.com/RalphHightower" }
-  #   - { platform: keybase,        user_url: "https://keybase.io/RalphHightower" }
-     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/RalphHightower" }
-  #   - { platform: microdotblog,   user_url: "https://micro.blog/RalphHightower" }
-  #   - { platform: pinterest,      user_url: "https://www.pinterest.com/RalphHightower" }
-     - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/19978043/ralph-hightower" }
-  #   - { platform: telegram,       user_url: "https://t.me/RalphHightower" }
-  #   - { platform: twitter,        user_url: "https://twitter.com/RalphHightower" }
-     - { platform: youtube,        user_url: "https://www.youtube.com/@RalphHightower" }
-
-# If you want to link only specific pages in your header, uncomment this and add the path to the pages in
-# order as they should show up.
-#
-# header_pages:
-#   - about.md
-
+# 2024-05-06 This looks like the right settings where Jekyll won't display two H1s.
 #titles_from_headings:
-#   enabled: false
-#   strip_title: false
-#   collections: false
+#  enabled: false
+#  strip_title: false
+#  collections: false
+  
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
 
-epository: "RalphHightower/JekyllTestBed"
+repository: "RalphHightower/JekyllTestBed"
