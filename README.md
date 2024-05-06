@@ -15,7 +15,7 @@
 | • double headers<br />• no JekyllTestBed  | no value[^11] | no value[^11] | no value[^11] |
 | • No double headers <br />• But no page links | false | false | false |
 | • No double headers <br />• But no page links  | false | false | true |
-|   | false | true | false |
+| • No double headers <br />• But no page links  | false | true | false |
 |   | false | true | true |
 |   | true | false | false |
 |   | true | false | true |
