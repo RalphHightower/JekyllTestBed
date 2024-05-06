@@ -17,7 +17,7 @@
 | • No double headers <br />• But no page links  | false | false | true |
 | • No double headers <br />• But no page links  | false | true | false |
 | • No double headers <br />• But no page links  | false | true | true |
-|   | true | false | false |
+| • double headers<br />• no JekyllTestBed  | true | false | false |
 |   | true | false | true |
 |   | true | true | false |
 |   | true | true | true |
