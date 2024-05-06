@@ -1,4 +1,4 @@
-title: USC Gamecock/Sandstorm theme derived from Jekyll/minima
+title: Test Bed for Experimentation with Jekyll 
 author:
   name: Ralph Hightower 
   email: ralph.hightower@gmail.com
@@ -9,7 +9,7 @@ author:
   country: United States of America
   #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
-  USC Gamecock Sandstorm theme derived from Jekyll/minima 
+  See what works and doesn't work with Jekyll _config.yml
 show_excerpts: false
 # Set to `true` to show excerpts on the homepage.
 #
@@ -55,3 +55,8 @@ minima:
 #
 # header_pages:
 #   - about.md
+
+#titles_from_headings:
+#   enabled: false
+#   strip_title: false
+#   collections: false
