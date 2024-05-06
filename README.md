@@ -13,7 +13,7 @@
 | Jekyll _config.yml<br />titles_from_headings<br />display results: |  enabled: | strip_title: | collections: |
 |---|---|---|---|
 | double headers<br />no JekyllTestBed  | no value[^11] | no value[^11] | no value[^11] |
-|   | false | false | false |
+| • No double headers <br />• But no page links | false | false | false |
 |   | false | false | true |
 |   | false | true | false |
 |   | false | true | true |
