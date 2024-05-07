@@ -14,7 +14,7 @@
 |---|---|---|---|---|---|
 | N  | Y  | Success | no value[^11] |vno value[^11] | no value[^11] |
 | N  | N  | Failure | false | false | false |
-|    |    |    | false | false | true  |
+| N  | N  | Failure | false | false | true  |
 |    |    |    | false | true  | false |
 |    |    |    | false | true  | true  |
 |    |    |    | true  | false | false |
