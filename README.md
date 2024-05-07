@@ -15,7 +15,7 @@
 | Y | Y  | Failure | Y | no value[^11] | no value[^11] | no value[^11] |
 | Y | N  | Failure | Y | false | false | false |
 | N | Y  | Success | Y | false | false | true  |
-| . | . | .  | Y | false | true  | false |
+| N | Y | Success  | Y | false | true  | false |
 | . | . | .  | Y | false | true  | true  |
 | . | . | .  | Y | true  | false | false |
 | . | . | .  | Y | true  | false | true  |
