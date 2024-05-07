@@ -20,6 +20,6 @@
 | Y  | N  | Failure | true  | false | false |
 | Y  | Y  | Failure | true  | false | true  |
 | N  | N  | Success | true  | true  | false |
-|    |    |    | true  | true  | true  |
+| Y  | Y  | Success | true  | true  | true  |
 
 [^11]: Commented out.
