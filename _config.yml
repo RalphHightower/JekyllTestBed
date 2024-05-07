@@ -51,10 +51,10 @@ plugins:
 # - "jekyll-titles-from-headings"
 
 # 2024-05-06 This looks like the right settings where Jekyll won't display two H1s.
-titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: true
+#titles_from_headings:
+#  enabled: true
+#  strip_title: true
+#  collections: true
   
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
