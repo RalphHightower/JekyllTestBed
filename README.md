@@ -16,8 +16,8 @@
 | Y | N | Failure | Y | false | false | false |
 | N | Y | Success | Y | false | false | true  |
 | N | N | Failure | Y | false | true  | false |
-| N | N | Failure  | Y | false | true  | true  |
-| . | . | .  | Y | true  | false | false |
+| N | N | Failure | Y | false | true  | true  |
+| Y | Y | Failure | Y | true  | false | false |
 | . | . | .  | Y | true  | false | true  |
 | . | . | .  | Y | true  | true  | false |
 | . | . | .  | Y | true  | true  | true  |
