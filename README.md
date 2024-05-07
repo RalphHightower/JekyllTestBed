@@ -20,7 +20,7 @@
 | Y | Y | Failure | Y | true  | false | false |
 | Y | Y | Failure | Y | true  | false | true  |
 | N[^12] | Y | Success[^12] | Y | true  | true  | false |
-| . | . | .  | Y | true  | true  | true  |
+| N[^12] | Y | Success  | Y | true  | true  | true  |
 
 [^11]: titles_from_headings: live
 [^12]: H1 does not have link.
