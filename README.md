@@ -16,7 +16,7 @@
 | N  | N  | Failure | false | false | false |
 | N  | N  | Failure | false | false | true  |
 | N  | N  | Failure | false | true  | false |
-|    |    |    | false | true  | true  |
+| N  | N  | Failure | false | true  | true  |
 |    |    |    | true  | false | false |
 |    |    |    | true  | false | true  |
 |    |    |    | true  | true  | false |
