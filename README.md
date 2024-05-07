@@ -12,7 +12,7 @@
 
 | Duplicate<br />Headers? | Page<br />Links? | Notes |  enabled: | strip_title: | collections: |
 |---|---|---|---|---|---|
-|    |    | Success | no value[^11] |vno value[^11] | no value[^11] |
+| N  | Y  | Success | no value[^11] |vno value[^11] | no value[^11] |
 |    |    |    | false | false | false |
 |    |    |    | false | false | true  |
 |    |    |    | false | true  | false |
