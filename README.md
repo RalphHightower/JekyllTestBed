@@ -20,7 +20,7 @@
 | Y | Y | Failure  | Y | true  | false | false |
 | Y | Y | Failure  | Y | true  | false | true  |
 | N | Y | Success[^13] | Y | true  | true  | false |
-|  |  |   | Y | true  | true  | true  |
+| N | Y | Success[^13] | Y | true  | true  | true  |
 
 [^11]: title in _config.yml commented out
 [^12]: titles_from_headings: live
