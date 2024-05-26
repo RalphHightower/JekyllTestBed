@@ -33,11 +33,9 @@
 | [Markor v2.11.0 (147\)](https://github.com/gsantner/markor/releases/tag/v2.11.0)[^21]  | [Where is Stonehenge, who built the prehistoric monument, and how? / Live Science](https://www.livescience.com/stonehenge-england-ancient-history) | October 9, 2023[^41] |
 | [Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)[^22] | [Where is Stonehenge, who built the prehistoric monument, and how? | Live Science](https://www.livescience.com/stonehenge-england-ancient-history) | October 9, 2023[^42] |
 
-[^21]: \[Where is Stonehenge, who built the prehistoric monument, and how? / Live Science](https://www.livescience.com/stonehenge-england-ancient-history) \| October 9, 2023 ○|
- \|<br />[Markor v2.11.0 (147\)](https://github.com/gsantner/markor/releases/tag/v2.11.0)
+[^21]: \[Where is Stonehenge, who built the prehistoric monument, and how? / Live Science](https://www.livescience.com/stonehenge-england-ancient-history) \| October 9, 2023 \|<br />[Markor v2.11.0 (147\)](https://github.com/gsantner/markor/releases/tag/v2.11.0)
 
-[^22]: [Where is Stonehenge, who built the prehistoric monument, and how? 3| Live Science](https://www.livescience.com/stonehenge-england-ancient-history) \| October 9, 2023 |
-\|<br />[Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)
+[^22]: [Where is Stonehenge, who built the prehistoric monument, and how? \| Live Science](https://www.livescience.com/stonehenge-england-ancient-history) \| October 9, 2023 \|<br />[Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)
 
 [^41]: Success
 [^42]: Failure 
