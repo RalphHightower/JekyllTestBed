@@ -30,12 +30,14 @@
 
 | markor version | test | date |
 |---|---|---|
-| [Markor v2.11.0 (147\)](https://github.com/gsantner/markor/releases/tag/v2.11.0)[^21]  | [A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen? / Space](https://www.space.com/spacex-polaris-program-hubble-servicing-mission) | May 25, 2024[^41] |
-| [Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)[^22] | [A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen? | Space](https://www.space.com/spacex-polaris-program-hubble-servicing-mission) | May 25, 2024[^42] |
+| [Markor v2.11.0 (147\)](https://github.com/gsantner/markor/releases/tag/v2.11.0)[^21]  | [Where is Stonehenge, who built the prehistoric monument, and how? / Live Science](https://www.livescience.com/stonehenge-england-ancient-history) | October 9, 2023[^41] |
+| [Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)[^22] | [Where is Stonehenge, who built the prehistoric monument, and how? | Live Science](https://www.livescience.com/stonehenge-england-ancient-history) | October 9, 2023[^42] |
 
-[^21]: \[A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen? / Space](https://www.space.com/spacex-polaris-program-hubble-servicing-mission) \| May 25, 2024 \|<br />[Markor v2.11.0 (147\)](https://github.com/gsantner/markor/releases/tag/v2.11.0)
+[^21]: \[Where is Stonehenge, who built the prehistoric monument, and how? / Live Science](https://www.livescience.com/stonehenge-england-ancient-history) | October 9, 2023 |
+ \|<br />[Markor v2.11.0 (147\)](https://github.com/gsantner/markor/releases/tag/v2.11.0)
 
-[^22]: \[A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen? \| Space](https://www.space.com/spacex-polaris-program-hubble-servicing-mission) \| May 25, 2024 \|<br />[Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)
+[^22]: [Where is Stonehenge, who built the prehistoric monument, and how? 3| Live Science](https://www.livescience.com/stonehenge-england-ancient-history) \| October 9, 2023 |
+\|<br />[Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)
 
 [^41]: Success
 [^42]: Failure 
