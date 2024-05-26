@@ -35,7 +35,7 @@
 
 [^21]: \[A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen? / Space](https://www.space.com/spacex-polaris-program-hubble-servicing-mission) \| May 25, 2024 \|<br />[Markor v2.11.0 (147\)](https://github.com/gsantner/markor/releases/tag/v2.11.0)
 
-[^22]: \[A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen? | Space](https://www.space.com/spacex-polaris-program-hubble-servicing-mission) \| May 25, 2024 \|<br />[Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)
+[^22]: \[A billionaire hopes to upgrade the Hubble Telescope on a private SpaceX mission, but could it really happen? \| Space](https://www.space.com/spacex-polaris-program-hubble-servicing-mission) \| May 25, 2024 \|<br />[Markor v2.12.2 (code 151\)](https://github.com/gsantner/markor/releases/tag/v2.12.2)
 
 [^41]: Success
 [^42]: Failure 
